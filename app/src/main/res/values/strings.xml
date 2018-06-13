@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">APPINTELBRAS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt1_inical">Etapa 1 de 3 - Troncos</string>
+    <string name="txt2_inical">Informe a quantidade de cada item. A quantidade máxima de alguns campos serão automaticamente alterados de acordo com o preenchimento do campo anterior</string>
+    <string name="label1_inical">Troncos digitais:</string>
+    <string name="label2_inical">Troncos analógicos:</string>
+    <string name="label3_inical">Troncos GSM:</string>
+    <string name="label4_inical">Troncos IP:</string>
+    <string name="btn_continuar_inical">Continuar</string>
+    <string name="title_activity_segunda_tela">Tela Ramais</string>
+    <string name="txt1_segundaTela">Etapa 2 de 3 - Troncos</string>
+    <string name="txt2_segundaTela">Informe a quantidade de cada item. A quantidade máxima de alguns campos serão automaticamente alterados de acordo com o preenchimento do campo/etapa anterior</string>
+    <string name="label1_segundaTela">Ramais analógicos:</string>
+    <string name="label2_segundaTela">Ramais digitais:</string>
+    <string name="label3_segundaTela">Ramais IP:</string>
+    <string name="label4_segundaTela">Sem display:</string>
+    <string name="label5_segundaTela">Com display:</string>
+    <string name="label6_segundaTela">Com video chamada:</string>
+    <string name="label7_segundaTela">Softfone:</string>
+    <string name="btn_continuar_segundaTela">Continuar</string>
+    <string name="title_activity_terceira_tela">Terceira Tela</string>
+</resources>
